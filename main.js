@@ -174,7 +174,8 @@ const doGameSign = async (gameKey) => {
 
 async function main() {
   await doGameSign('Genshin')
-  await doGameSign('StarRail')
+  // 我不玩崩铁~
+  // await doGameSign('StarRail')
 }
 
 main().then()
